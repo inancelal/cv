@@ -1,0 +1,136 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    font-size: 90%;
+    color: #483c52;
+    line-height: 2;
+    background-color: #FFFBF5
+}
+
+h1 {
+    font-size: 300%;
+    margin: 0px auto 0px auto;
+    font-family: 'Dancing Script', cursive;
+    color: #3a2c44;
+    width: 25%;
+    text-align: center;
+}
+
+.altyazı {
+    margin: 0px auto 0px auto;
+    font-size: 150%;
+    color: #7b7183;
+}
+
+h2 {
+    font-size: 125%;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a2c44;
+}
+
+h3 {
+    font-size: 125%;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a2c44;
+}
+
+.profilfoto {
+    width: 13%;
+    height: 18%;
+}
+.hello{
+    font-size: 150%;
+}
+
+.fotoaltıyazı {
+    font-size: 90%;
+    margin: auto;
+    width: 30%;
+}
+
+.sıfır {
+    background-color: #FFFBF5;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    margin-bottom: 10%;
+}
+
+.skills {
+    text-align: center;
+    width: 50%;
+    margin: 3% auto 5% auto;
+}
+
+.satranç {
+    float: left;
+    width: 17%;
+    height: 10%;
+
+}
+
+.hobileryazı {
+    margin-left: 100px;
+}
+
+.hobiler2 {
+    margin: 5% auto 5% auto;
+    text-align: left;
+    font-size: 90%;
+
+}
+.hobiler{
+    margin: 20% auto 20% auto;
+    text-align: right;
+    font-size: 90%;
+}
+
+.yüzük {
+    float: right;
+    width: 20%;
+    height: 25%;
+    font-size: 90%;
+}
+
+.üst-bulut {
+    position: absolute;
+    right: 25%;
+    top: 17%
+}
+
+.alt-bulut {
+    position: absolute;
+    left: 25%;
+    top: 60%
+}
+.contact-me{
+    margin: 15% auto 1% auto;
+    text-align: center;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #4d244d;
+    font-size: 90%;
+    background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #a4c6db;
+    text-decoration: none;
+}
+
+.linkedin-link {
+    color: #11999E;
+    font-size: 90%;
+}
+
+.twitter-link {
+    color: #11999E;
+    font-size: 90%;
+}
