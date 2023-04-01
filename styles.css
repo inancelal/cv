@@ -1,0 +1,122 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    font-size: 100%;
+    color: #483c52;
+    line-height: 2;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Dancing Script', cursive;
+    color: #3a2c44;
+}
+
+.altyazı {
+    margin-top: 0px;
+    font-size: 2rem;
+    color: #7b7183;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a2c44;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a2c44;
+}
+
+.profilfoto {
+    width: 20%;
+    height: 25%;
+}
+
+.fotoaltıyazı {
+    margin: auto;
+    width: 30%;
+}
+
+.sıfır {
+    background-color: #FFFBF5;
+    padding-top: 250px;
+    padding-bottom: 350px;
+
+}
+
+.skills {
+    text-align: left;
+    width: 50%;
+    margin: 0px auto 50px auto;
+}
+
+.hobiler {}
+
+.satranç {
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin-right: 25px;
+
+}
+
+.hobileryazı {
+    margin-left: 100px;
+}
+
+.hobiler2 {
+    margin: 300px auto 200px auto;
+    text-align: left;
+
+}
+
+.yüzük {
+    float: right;
+    width: 25%;
+    height: 25%;
+}
+
+.üst-bulut {
+    position: absolute;
+    right: 25%;
+    top:    17%
+
+
+}
+
+.alt-bulut {
+    position: absolute;
+    left: 25%;
+    top:   73%
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #4d244d;
+    font-size: 22px;
+    background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #a4c6db;
+    text-decoration: none;
+}
+
+.linkedin-link {
+    color: #11999E;
+}
+
+.twitter-link {
+    color: #11999E;
+}
